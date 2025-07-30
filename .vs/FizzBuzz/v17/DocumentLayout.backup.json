@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Git\\Interviews\\FizzBuzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293BE587-8BAE-41EF-AC1D-E575355770CF}|FizzBuzz.Console\\FizzBuzz.Console.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293BE587-8BAE-41EF-AC1D-E575355770CF}|FizzBuzz.Console\\FizzBuzz.Console.csproj|solutionrelative:fizzbuzz.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.tests\\fizzbuzzruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|solutionrelative:fizzbuzz.tests\\fizzbuzzruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.tests\\fizzbuzzfiletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|solutionrelative:fizzbuzz.tests\\fizzbuzzfiletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|solutionrelative:fizzbuzz.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.tests\\fizzbuzztestsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|solutionrelative:fizzbuzz.tests\\fizzbuzztestsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.tests\\fizzbuzz.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|solutionrelative:fizzbuzz.tests\\fizzbuzz.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.tests\\fizzbuzz.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|solutionrelative:fizzbuzz.tests\\fizzbuzz.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.tests\\fizzbuzzconsoletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F182B1DC-ECB8-4825-BDC6-002A70E7E83D}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|solutionrelative:fizzbuzz.tests\\fizzbuzzconsoletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756C6DE6-9F96-438F-9EC1-8572499DC5F8}|FizzBuzz.Infrastructure\\FizzBuzz.Infrastructure.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.infrastructure\\fileoutputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756C6DE6-9F96-438F-9EC1-8572499DC5F8}|FizzBuzz.Infrastructure\\FizzBuzz.Infrastructure.csproj|solutionrelative:fizzbuzz.infrastructure\\fileoutputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133CA74F-F9FF-4D23-952D-71E7C691247C}|FizzBuzz.Application\\FizzBuzz.Application.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.application\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133CA74F-F9FF-4D23-952D-71E7C691247C}|FizzBuzz.Application\\FizzBuzz.Application.csproj|solutionrelative:fizzbuzz.application\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133CA74F-F9FF-4D23-952D-71E7C691247C}|FizzBuzz.Application\\FizzBuzz.Application.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.application\\services\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133CA74F-F9FF-4D23-952D-71E7C691247C}|FizzBuzz.Application\\FizzBuzz.Application.csproj|solutionrelative:fizzbuzz.application\\services\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D2962E-DDDE-4E68-92E9-A7178A27347B}|FizzBuzz.Domain\\FizzBuzz.Domain.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.domain\\rules\\fizzrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D2962E-DDDE-4E68-92E9-A7178A27347B}|FizzBuzz.Domain\\FizzBuzz.Domain.csproj|solutionrelative:fizzbuzz.domain\\rules\\fizzrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D2962E-DDDE-4E68-92E9-A7178A27347B}|FizzBuzz.Domain\\FizzBuzz.Domain.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.domain\\rules\\fizzbuzzrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D2962E-DDDE-4E68-92E9-A7178A27347B}|FizzBuzz.Domain\\FizzBuzz.Domain.csproj|solutionrelative:fizzbuzz.domain\\rules\\fizzbuzzrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D2962E-DDDE-4E68-92E9-A7178A27347B}|FizzBuzz.Domain\\FizzBuzz.Domain.csproj|d:\\_git\\interviews\\fizzbuzz\\fizzbuzz.domain\\rules\\buzzrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D2962E-DDDE-4E68-92E9-A7178A27347B}|FizzBuzz.Domain\\FizzBuzz.Domain.csproj|solutionrelative:fizzbuzz.domain\\rules\\buzzrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Console\\Program.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Console\\Program.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Console\\Program.cs",
+              "RelativeToolTip": "FizzBuzz.Console\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:14:27.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FizzBuzzRuleTests.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzzRuleTests.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Tests\\FizzBuzzRuleTests.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzzRuleTests.cs",
+              "RelativeToolTip": "FizzBuzz.Tests\\FizzBuzzRuleTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:08:13.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Tests\\MSTestSettings.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "FizzBuzz.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:01:00.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FizzBuzz.Tests",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+              "RelativeDocumentMoniker": "FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+              "RelativeToolTip": "FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T12:51:27.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FizzBuzz.Tests",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+              "RelativeDocumentMoniker": "FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+              "RelativeToolTip": "FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T12:52:15.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileOutputWriter.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Infrastructure\\FileOutputWriter.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Infrastructure\\FileOutputWriter.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Infrastructure\\FileOutputWriter.cs",
+              "RelativeToolTip": "FizzBuzz.Infrastructure\\FileOutputWriter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:42:02.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FizzBuzzService.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Application\\Services\\FizzBuzzService.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Application\\Services\\FizzBuzzService.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Application\\Services\\FizzBuzzService.cs",
+              "RelativeToolTip": "FizzBuzz.Application\\Services\\FizzBuzzService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:37:54.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFizzBuzzService.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Application\\Services\\IFizzBuzzService.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Application\\Services\\IFizzBuzzService.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Application\\Services\\IFizzBuzzService.cs",
+              "RelativeToolTip": "FizzBuzz.Application\\Services\\IFizzBuzzService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:37:33.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FizzBuzzConsoleTests.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzzConsoleTests.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Tests\\FizzBuzzConsoleTests.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzzConsoleTests.cs",
+              "RelativeToolTip": "FizzBuzz.Tests\\FizzBuzzConsoleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:35:36.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FizzRule.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Domain\\Rules\\FizzRule.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Domain\\Rules\\FizzRule.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Domain\\Rules\\FizzRule.cs",
+              "RelativeToolTip": "FizzBuzz.Domain\\Rules\\FizzRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:18:41.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FizzBuzzRule.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Domain\\Rules\\FizzBuzzRule.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Domain\\Rules\\FizzBuzzRule.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Domain\\Rules\\FizzBuzzRule.cs",
+              "RelativeToolTip": "FizzBuzz.Domain\\Rules\\FizzBuzzRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:18:26.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BuzzRule.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Domain\\Rules\\BuzzRule.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Domain\\Rules\\BuzzRule.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Domain\\Rules\\BuzzRule.cs",
+              "RelativeToolTip": "FizzBuzz.Domain\\Rules\\BuzzRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:18:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FizzBuzzFileTests.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzzFileTests.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Tests\\FizzBuzzFileTests.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzzFileTests.cs",
+              "RelativeToolTip": "FizzBuzz.Tests\\FizzBuzzFileTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:03:26.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FizzBuzzTestsBase.cs",
+              "DocumentMoniker": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzzTestsBase.cs",
+              "RelativeDocumentMoniker": "FizzBuzz.Tests\\FizzBuzzTestsBase.cs",
+              "ToolTip": "D:\\_Git\\Interviews\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzzTestsBase.cs",
+              "RelativeToolTip": "FizzBuzz.Tests\\FizzBuzzTestsBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:58:41.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

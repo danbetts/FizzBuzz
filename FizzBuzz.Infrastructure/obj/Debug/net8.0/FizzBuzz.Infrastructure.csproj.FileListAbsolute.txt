@@ -1,0 +1,15 @@
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\bin\Debug\net8.0\FizzBuzz.Infrastructure.deps.json
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\bin\Debug\net8.0\FizzBuzz.Infrastructure.dll
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\bin\Debug\net8.0\FizzBuzz.Infrastructure.pdb
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\bin\Debug\net8.0\FizzBuzz.Domain.dll
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\bin\Debug\net8.0\FizzBuzz.Domain.pdb
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\FizzBuzz.Infrastructure.csproj.AssemblyReference.cache
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\FizzBuzz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\FizzBuzz.Infrastructure.AssemblyInfoInputs.cache
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\FizzBuzz.Infrastructure.AssemblyInfo.cs
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\FizzBuzz.Infrastructure.csproj.CoreCompileInputs.cache
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\FizzBuzz.E19B622B.Up2Date
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\FizzBuzz.Infrastructure.dll
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\refint\FizzBuzz.Infrastructure.dll
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\FizzBuzz.Infrastructure.pdb
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Infrastructure\obj\Debug\net8.0\ref\FizzBuzz.Infrastructure.dll

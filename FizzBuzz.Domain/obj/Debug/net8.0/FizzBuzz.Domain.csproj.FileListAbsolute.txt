@@ -1,0 +1,11 @@
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\bin\Debug\net8.0\FizzBuzz.Domain.deps.json
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\bin\Debug\net8.0\FizzBuzz.Domain.dll
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\bin\Debug\net8.0\FizzBuzz.Domain.pdb
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\obj\Debug\net8.0\FizzBuzz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\obj\Debug\net8.0\FizzBuzz.Domain.AssemblyInfoInputs.cache
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\obj\Debug\net8.0\FizzBuzz.Domain.AssemblyInfo.cs
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\obj\Debug\net8.0\FizzBuzz.Domain.csproj.CoreCompileInputs.cache
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\obj\Debug\net8.0\FizzBuzz.Domain.dll
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\obj\Debug\net8.0\refint\FizzBuzz.Domain.dll
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\obj\Debug\net8.0\FizzBuzz.Domain.pdb
+D:\_Git\Interviews\FizzBuzz\FizzBuzz.Domain\obj\Debug\net8.0\ref\FizzBuzz.Domain.dll
