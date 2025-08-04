@@ -1,0 +1,113 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+*.pidb
+*.sln.docstates
+
+# Visual Studio cache files
+.vs/
+.vscode/
+
+# Rider IDE
+.idea/
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# Build output folders (some additional)
+TestResults/
+Publish/
+
+# Auto-generated files
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# Resharper
+_ReSharper*/
+*.ReSharper*/
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+
+# Coverlet coverage files
+coverage*.json
+coverage*.xml
+
+# Others
+*.log
+*.vspscc
+*.vssscc
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# MSBuild logs
+*.binlog
+
+# JetBrains Rider
+.idea/
+
+# Rider crash logs
+rider.log*
+
+# StyleCop cache
+StyleCopReport.xml
+
+# Web files
+*.publishsettings
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used by Windows Explorer
+$RECYCLE.BIN/
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# dotCover coverage files
+*.dotCover
+
+# User secrets (if using ASP.NET Core secret manager)
+secrets.json
+
+# Entity Framework
+Migrations/
+
+# Others (optional)
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.tmp
+*.tmp_proj
+*.cache
+*.ilk
+*.log
+*.vsix
+*.docstates
